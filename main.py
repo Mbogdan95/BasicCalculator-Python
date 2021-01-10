@@ -21,7 +21,7 @@ def MultiplyNumbers(number1, number2):
 def DivideNumbers(number1, number2):
     return number1 / number2
 
-# * Method to get the reminder between two numbers
+# *Method to get the reminder between two numbers
 def ModuloNumbers(number1, number2):
     return number1 % number2
 
