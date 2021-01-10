@@ -2,9 +2,7 @@
 
 import sys
 
-# Variables used
-numbers = []
-operations = []
+# Defining variable
 result = 0
 
 # *Method to add two numbers 
